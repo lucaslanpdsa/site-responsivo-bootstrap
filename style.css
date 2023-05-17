@@ -1,0 +1,15 @@
+header {
+  background-color: rgba(252, 252, 252, 0.451);
+}
+
+header img {
+  height: 40vh;
+}
+
+h1 {
+  color: rgb(40, 40, 71);
+}
+
+.container {
+  width: 70%;
+}
